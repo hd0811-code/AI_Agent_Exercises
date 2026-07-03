@@ -1,2 +1,2 @@
-# AI_Agent_Exercises_self_practice
+# AI_Agent_Exercises
 Exercises from https://github.com/datawhalechina/hello-agents
